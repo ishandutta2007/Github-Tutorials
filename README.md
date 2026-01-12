@@ -1,4 +1,4 @@
-# GitHub Tuytorials
+# GitHub Tutorials
 
 > Wandering means to travel freely.
 
