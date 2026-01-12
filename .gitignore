@@ -1,5 +1,6 @@
 .idea
 *.epub
+*.css
 *.mobi
 *.pdf
 *.rtf
@@ -7,3 +8,5 @@
 CNAME
 Makefile
 website_old
+build
+img
