@@ -1,0 +1,9 @@
+.idea
+*.epub
+*.mobi
+*.pdf
+*.rtf
+*.tex
+CNAME
+Makefile
+website_old
